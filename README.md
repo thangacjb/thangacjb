@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thangacjb
+- 👋 Hi, I’m Thangaraj
 - 👀 I’m interested in ML engineer.
 - 🌱 I’m currently learning Python, Data Structures & sql. 
 - 📫 How to reach me 9942202271, thangacjb@gmail.com
