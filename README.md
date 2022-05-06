@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thangaraj
-- 👀 I’m interested in ML engineer.
-- 🌱 I’m currently learning Python, Data Structures & sql. 
+- 👀 Data engineer.
+- 🌱 Python, Data Structures, Sql, Azure stack - ms-Sql, DataLake, Blob storage, ADF, event Hub and Azure DataBricks
 - 📫 How to reach me 9942202271, thangacjb@gmail.com
 
 <!---
